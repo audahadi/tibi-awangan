@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",RTM Parlimen (Dewan Rakyat) (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysia",RTM Parlimen (Dewan Rakyat) (1080p)
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="",RTM TV 1 (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="Malaysia",RTM TV 1 (1080p)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="",RTM TV 2 (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="Malaysia",RTM TV 2 (1080p)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
@@ -20,17 +20,17 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
-http://77.54.145.209:81/play/a02j 
+http://77.54.145.209:81/play/a02j
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
-http://77.54.145.209:81/play/a02n 
+http://77.54.145.209:81/play/a02n
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
-http://77.54.145.209:81/play/a02o 
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",B hdTV 
-http://77.54.145.209:81/play/a032 
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport01 TV 
-http://77.54.145.209:81/play/a00a 
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport02 TV 
-http://77.54.145.209:81/play/a03d 
+http://77.54.145.209:81/play/a02o
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",B hdTV
+http://77.54.145.209:81/play/a032
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport01 TV
+http://77.54.145.209:81/play/a00a
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport02 TV
+http://77.54.145.209:81/play/a03d
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL", bein 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",bein 2
@@ -73,7 +73,7 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",TEN SPORTS
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",GTV LIVE HD 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",GTV LIVE HD
 http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86ef3c31e-4af8c0a178661db3b32df38ac2f1a11a-1600616751-1600605951&remote=103.66.177.168
 #EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn 2
 https://gma2.blab.email/espn2.m3u8
@@ -89,7 +89,7 @@ https://gma2.blab.email/fs2.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 ========================================================================FoxSports=================================================================
-#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 1 
+#EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS 2 (MOTO GP)
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -145,8 +145,8 @@ http://92.43.140.200/s55/04.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",CCTV 5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",TVRI SPORT 
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
+#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan", SWISS SPORTS
