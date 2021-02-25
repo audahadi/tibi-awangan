@@ -7,85 +7,46 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="Malaysia",RTM TV 2 (1080p)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 3
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 4
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 5
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 1
 http://77.54.145.209:81/play/a02v
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 2
 http://77.54.145.209:81/play/a02j
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 3
 http://77.54.145.209:81/play/a02n
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Sport TV 4
 http://77.54.145.209:81/play/a02o
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",B hdTV
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",B hdTV
 http://77.54.145.209:81/play/a032
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport01 TV
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Eleven Sport01 TV
 http://77.54.145.209:81/play/a00a
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Eleven Sport02 TV
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Eleven Sport02 TV
 http://77.54.145.209:81/play/a03d
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL", bein 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",bein 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Setanta Sports 1 (BACKUP)
-http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SETANTA SPORTS 1
-http://92.43.140.204:80/s81/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SETANTA SPORTS" 1
-http://92.43.140.200/s81/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SETANTA SPORTS 2
-http://92.43.140.200/s82/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Fox Sports 501 (MOTO GP)
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",SPORT 7
-http://45.58.62.92:8083
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",PPTV HD (MOTO GP)
-http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Varzesh TV
-http://51.158.66.44/hls/stream.m3u8
-#EXTINF:0 tvg-logo="TEST" group-title="FOOTBALL",VARZESH TV 2
-http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Varzesh TV 3
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Varzesh TV 4
-http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Viasat Sport East
-https://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Bek Sports West
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Nile Sport
-http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",MOTOR SPORT
-http://45.58.62.92:8084
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",EUROSPORTS" 1
-http://5.135.92.133:52841/out/u/509_1.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",EUROSPORTS" 1
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",EURO SPORTS" 2
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",EURO SPORTS" 2
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",TEN SPORTS
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",GTV LIVE HD
-http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86ef3c31e-4af8c0a178661db3b32df38ac2f1a11a-1600616751-1600605951&remote=103.66.177.168
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn 2
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",espn 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espnu
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",espnu
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn accn
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",espn accn
 https://gma2.blab.email/acc.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn sec
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",espn sec
 https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn fs2
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",espn fs2
 https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",cna
+#EXTINF:-1 tvg-logo="TEST" group-title="Football",cna
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 ========================================================================FoxSports=================================================================
@@ -108,59 +69,21 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="FoxSports",FOX SPORTS VN 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 
-
-=====================================================AstroSports===========================================================================
-#EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 group-title="AstroSports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-
-
 =======================================================================SportsUnggulan====================================================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan", serie a italia
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",BAYERN MUNICH TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH 01 TV
-http://188.35.9.11:2019
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH CTPAHA
-http://188.35.9.5:10007/stolen/124n/parasite.install
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH 01 TV
-http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH 02 TV
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",MATCH 03 TV
-http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Mytgon
-http://92.43.140.200/s41/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",FIGHT BOX
-http://92.43.140.200/s86/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Fast box
-http://92.43.140.200/s79/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",GLOBAL WEEKEND
-http://92.43.140.200/s89/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Mancing mania
-http://92.43.140.200/s55/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",CCTV 5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",CCTV 5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",RTM SPORTS
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan", SWISS SPORTS
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",BAYERN MUNCHEN TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Star Sports 1
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Egg Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",TDM SPORT MACAU
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",FOX SPORTS HD 1 USA
@@ -175,16 +98,10 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",FIGHT SPORTS
-http://210.210.155.35:80/uq2663/h/h05/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan", NBA Tv
-#https://www.doofree88.com/streaming/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan", FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",ARHAT SPORT TV
 http://arhat.tv/public/360p/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",SBS SPORTS
-http://211.245.55.198:1024/m2u/239.192.67.130:49220
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SportsUnggulan",Dubai Racing
